@@ -1,3 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 #Api-menu {
     display: flex;
     justify-content: center;
@@ -9,7 +17,7 @@
 
 #Api-menu {
     list-style: none;
-    margin-right: 56px;
+    margin-right: 0px;
 }
 
 #Api-menu li a {
@@ -44,10 +52,10 @@ h1 {
     color: #30336b;
     font-weight: bold;
 }
-/* 
+
 #header-api{
     display: block;
     width: 300px;
     margin: auto;
     border-bottom: 2px solid black;
-} */
+}

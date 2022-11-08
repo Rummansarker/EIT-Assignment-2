@@ -16,9 +16,9 @@ function displayPost(photos){
     div.classList.add("photo")
     let img = document.createElement("img");
     img.src=photo.url;
-    img.style.width='300px'
+    img.style.width='300px';
 
-        postContainer.appendChild(img);
+    postContainer.appendChild(img);
 
     }
     
